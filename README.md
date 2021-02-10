@@ -17,3 +17,7 @@
 - [Local Storage](https://blog.logrocket.com/the-complete-guide-to-using-localstorage-in-javascript-apps-ba44edb53a36/)
 - [MDN](https://developer.mozilla.org/en-US/)
 - [Design Ideas](https://dribbble.com/tags/calendar)
+
+## License
+
+Developed by [Bruno Gomes](https://github.com/brunogomes98)
